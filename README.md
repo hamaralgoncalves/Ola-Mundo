@@ -1,5 +1,6 @@
 # Olá, Mundo!
- Primeiro repositório do currso de Git e GitHub
+ Primeiro repositório do currso de Git e GitHub.
+ Meu nome é **Henrique**
 
  Repositório criado durante uma aula ao vivo!
 
